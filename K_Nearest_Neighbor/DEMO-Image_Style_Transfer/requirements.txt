@@ -1,0 +1,7 @@
+# 自动生成的依赖库文件
+# 生成时间: 2025年 10月 24日 星期五 22:39:38 CST
+# 项目路径: /home/sikm/PythonProject/Machine_Learning/Machine-Learning-Coding/K_Nearest_Neighbor/DEMO-Image_Style_Transfer
+
+matplotlib==3.10.7
+numpy==2.2.6
+opencv-python==4.12.0
